@@ -1,0 +1,6 @@
+calabrio:
+  auth:
+    url:
+      authorize: https://dev-425391.okta.com/oauth2/default/v1/authorize
+      token: https://dev-425391.okta.com/oauth2/default/v1/token
+      redirect: https://fstth77k2f.execute-api.us-east-2.amazonaws.com/alpha/auth/token/callback

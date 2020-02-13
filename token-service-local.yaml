@@ -1,0 +1,6 @@
+calabrio:
+  auth:
+    url:
+      authorize: https://dev-425391.okta.com/oauth2/default/v1/authorize
+      token: https://dev-425391.okta.com/oauth2/default/v1/token
+      redirect: http://localhost:8079/token/callback
