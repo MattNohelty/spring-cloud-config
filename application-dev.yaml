@@ -1,6 +1,3 @@
-
 service:
-    protocol: https://
-    host: dev1.c1-test.com
-    user: user-service
-    tenant: tenant-service
+    user: https://user-service.dev1.c1-test.com
+    tenant: https://tenant-service.dev1.c1-test.com
