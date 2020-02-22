@@ -1,3 +1,4 @@
 service:
     user: http://localhost:8082
     tenant: http://localhost:8083
+    project: http://localhost:8085

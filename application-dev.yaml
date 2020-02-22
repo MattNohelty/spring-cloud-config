@@ -1,3 +1,4 @@
 service:
     user: https://user-service.dev1.c1-test.com
     tenant: https://tenant-service.dev1.c1-test.com
+    project: https://project-service.dev1.c1-test.com
