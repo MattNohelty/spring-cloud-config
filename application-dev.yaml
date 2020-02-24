@@ -1,4 +1,4 @@
 service:
-    user: http://user-service
-    tenant: http://tenant-service
-    project: http://project-service
+    user: http://user-service:8082
+    tenant: http://tenant-service:8083
+    project: http://project-service:8085
