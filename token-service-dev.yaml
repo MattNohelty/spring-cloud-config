@@ -3,4 +3,5 @@ calabrio:
     url:
       authorize: https://dev-425391.okta.com/oauth2/default/v1/authorize
       token: https://dev-425391.okta.com/oauth2/default/v1/token
-      redirect: https://fstth77k2f.execute-api.us-east-2.amazonaws.com/alpha/auth/token/callback
+      redirect: https://token-service.dev1.c1-test.com/token/callback
+      #https://fstth77k2f.execute-api.us-east-2.amazonaws.com/alpha/auth/token/callback
