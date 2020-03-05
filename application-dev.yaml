@@ -2,4 +2,4 @@ service:
     user: http://user-service:8082
     tenant: http://tenant-service:8083
     project: http://project-service:8085
-    token: http://project-service:8079
+    token: http://token-service:8079
