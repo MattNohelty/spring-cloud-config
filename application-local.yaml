@@ -3,3 +3,4 @@ service:
     tenant: http://localhost:8083
     token: http://localhost:8079
     project: http://localhost:8085
+    c1: http://localhost:8888

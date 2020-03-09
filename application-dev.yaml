@@ -3,3 +3,4 @@ service:
     tenant: http://tenant-service:8083
     project: http://project-service:8085
     token: http://token-service:8079
+    c1: https://c1-arcus.calabrioonedev.com
