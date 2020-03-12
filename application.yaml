@@ -1,0 +1,4 @@
+event:
+  project-queue: project-queue
+  project-exchange: project-creation
+  project-routingkey: project-routing-key
