@@ -1,6 +1,6 @@
 service:
     user: http://localhost:8082
     tenant: http://localhost:8083
-    token: http://localhost:8079
+    authtoken: http://localhost:8079
     project: http://localhost:8085
     c1: http://localhost:8888
