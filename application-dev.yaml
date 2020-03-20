@@ -7,6 +7,6 @@ service:
 spring:
     rabbitmq:
         username: user
-        password: XGfkR1l3tt
+        password: SgtOUOskS2
         host: rabbitmq.rabbitmq
         port: 5672        
