@@ -10,6 +10,3 @@ spring:
         password: 2amxiKWwnN
         host: rabbitmq.rabbitmq
         port: 5672
-    output:
-        ansi:
-          enabled: NEVER
