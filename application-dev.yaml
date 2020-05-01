@@ -2,7 +2,7 @@ service:
     user: http://user-service.calabrio-private-dev:8082
     tenant: http://tenant-service.calabrio-private-dev:8083
     project: http://project-service.calabrio-private-dev:8085
-    authtoken: http://auth-token-service.calabrio-private-dev:8079
+    authtoken: http://authtoken-service.calabrio-private-dev:8079
     c1: http://internal-arcus-c1-internal-ALB-1062579350.us-east-2.elb.amazonaws.com
 spring:
     rabbitmq:
