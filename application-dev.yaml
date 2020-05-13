@@ -4,9 +4,17 @@ service:
     project: http://project-service.calabrio-private-dev:8085
     authtoken: http://authtoken-service.calabrio-private-dev:8079
     c1: http://internal-arcus-c1-internal-ALB-1062579350.us-east-2.elb.amazonaws.com
+# spring:
+#    rabbitmq:
+#        username: user
+#        password: teMD5qLsg3
+#        host: rabbitmq.rabbitmq
+#        port: 5672
+
 spring:
     rabbitmq:
-        username: user
-        password: teMD5qLsg3
-        host: rabbitmq.rabbitmq
         port: 5672
+        username: lgyilxgy
+        password: fs5Gdy30yxf9ksMjVSSWBuuibZX0ELSy
+        host: hornet.rmq.cloudamqp.com
+        virtualHost: lgyilxgy
