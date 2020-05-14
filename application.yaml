@@ -1,5 +1,5 @@
 event:
-  deadLetterExchange: dlq
+  deadLetterExchange: dead-letter-exchange
   project-queue: project-queue
   project-exchange: project-creation
   project-routingkey: project-routing-key
